@@ -1,7 +1,6 @@
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280"/>
 
 # Merhaba, ben Şeyma 👩‍💻
-
 🎓 **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim**.  
 🤖 **Yapay zeka, veri bilimi, makine öğrenimi ve derin öğrenme** alanlarında kendimi geliştiriyorum.  
 💻 Bunun yanında **frontend geliştirme** alanında da kendimi geliştirmeye çalışıyor, yeni teknolojiler öğrenmekten keyif alıyorum.  
@@ -10,7 +9,6 @@
 
 
 # Hi, I'm Şeyma 👩‍💻
-
 🎓 I am a **4th year Computer Engineering student**.  
 🤖 I am passionate about **Artificial Intelligence, Data Science, Machine Learning, and Deep Learning**.  
 💻 I also work on **frontend development** and enjoy learning new technologies in this field.  
