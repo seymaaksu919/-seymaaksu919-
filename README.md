@@ -1,7 +1,6 @@
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280"/>
 
 # Merhaba, ben Şeyma 👩‍💻
-<br>
 
 🎓 **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim**.  
 🤖 **Yapay zeka, veri bilimi, makine öğrenimi ve derin öğrenme** alanlarında kendimi geliştiriyorum.  
